@@ -1,7 +1,7 @@
 '''
 Author: Muhammad Ahmed
-Occupation: Living in 5 Dimensions
-Hobby: Writing code for people in 3 Dimensions
+Occupation: Living in 5D
+Hobby: Writing code for people in 3D
 '''
 def Sq_STUDENTID(M, N):
   '''
