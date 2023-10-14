@@ -1,3 +1,8 @@
+'''
+Author: Muhammad Ahmed
+Occupation: Living in 5 Dimensions
+Hobby: Writing code for people in 3 Dimensions
+'''
 def Sq_STUDENTID(M, N):
   '''
   Generate N many random points on a square where
