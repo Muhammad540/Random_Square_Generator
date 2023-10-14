@@ -1,4 +1,4 @@
-#THIS IS A RANDOM SQUARE GENERATOR 
+# THIS IS A RANDOM SQUARE GENERATOR 
 
 ## What is it ?
 Basically it has a function which can generate a square for you given the coordinate of one edge of square, 
